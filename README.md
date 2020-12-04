@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Satcomx00-x00)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Satcomx00-x00&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/Satcomx00-x00)  
