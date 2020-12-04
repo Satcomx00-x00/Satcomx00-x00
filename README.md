@@ -6,4 +6,4 @@
 
 ![Profile views](https://gpvc.arturio.dev/Satcomx00-x00)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satcomx00-x00)](https://github.com/Satcomx00-x00/DataS-pwn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satcomx00-x00)](https://github.com/Satcomx00-x00/Parasite)
