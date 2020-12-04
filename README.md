@@ -1,4 +1,4 @@
-<h1 align='center'> Hi! :wave:</h1>
+<h1 align='center'> Hi! 👻</h1>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Satcomx00-x00)  
 
@@ -6,4 +6,4 @@
 
 ![Profile views](https://gpvc.arturio.dev/Satcomx00-x00)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satcomx00-x00)](https://github.com/Satcomx00-x00/PANGEA)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satcomx00-x00&theme=dark&)](https://github.com/Satcomx00-x00/PANGEA)
