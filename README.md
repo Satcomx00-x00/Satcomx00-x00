@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align='center'> Hi! :wave:</h1>
 
 <!--
 **Satcomx00-x00/Satcomx00-x00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Satcomx00-x00&theme=dark&show_icons=true)
 
 ![Profile views](https://gpvc.arturio.dev/Satcomx00-x00)  
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
