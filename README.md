@@ -3,9 +3,9 @@
 <h3>* ☠️ - I'm CTF team captain.</h3>
 <h3>* 🤖 - I'm actually working on a Botnet C&C working in a local network for my IUT degree.</h3>
 <h3>* 🤖 - I'm working on many projects like : , .</h3>
-          <h4>* - Discord bot NMAP</h4>
-          <h4>* - crypto autobot(TradeOgre)</h4>
-          <h4>* - Nodejs reverse shell Hub, with powershell commands hardcoded</h4>
+<h4>       - Discord bot NMAP</h4>
+<h4>       - crypto autobot(TradeOgre)</h4>
+<h4>       - Nodejs reverse shell Hub, with powershell commands hardcoded</h4>
           
 <h1 align='center'> Stast </h1>
 
