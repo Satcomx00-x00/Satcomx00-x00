@@ -3,6 +3,7 @@
 <h3>* ☠️ - I'm CTF team captain.</h3>
 <h3>* 🤖 - I'm actually working on a Botnet C&C working in a local network for my IUT degree.</h3>
 <h3>     - I'm working on many projects like : </h3>
+<h4>       - "0ne More Day" 0MD Raspbian based distro, targeting privacy and data sharing</h4>
 <h4>       - Discord bot NMAP</h4>
 <h4>       - crypto autobot(TradeOgre)</h4>
 <h4>       - Nodejs reverse shell Hub, with powershell commands hardcoded</h4>
