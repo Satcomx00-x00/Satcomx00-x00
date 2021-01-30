@@ -15,4 +15,4 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Satcomx00-x00&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satcomx00-x00&theme=dark)](https://github.com/Satcomx00-x00/PANGEA)
+
