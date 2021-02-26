@@ -10,7 +10,7 @@
 <h4>       - Proxmark3 RFID HF-LF learning</h4>
 <h4>       - C# based network optimizer and ports checker</h4>
 <h3>     I'm learning many codes languages: Python, Powershell, (SQL), Nodejs, React, C++, C#, PHP </h3>
-<h1 align='center'> Stast </h1>
+<h1 align='center'> Stats </h1>
 
 ![Profile views](https://gpvc.arturio.dev/Satcomx00-x00)  
 
