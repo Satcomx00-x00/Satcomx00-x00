@@ -12,10 +12,6 @@
   <img src="https://img.shields.io/badge/-Shell-000000?style=for-the-badge&logo=Shell"> 
   <img src="https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mySQL"> 
   <img src="https://img.shields.io/badge/-Terminal-000000?style=for-the-badge&logo=Terminal"> 
-
-  <a href="https://www.zsh.org/">
-    <img src="https://img.shields.io/badge/-ZSH-000000?style=for-the-badge&logo=ZSH">
-  </a>
   <a href="https://python.org/"> 
     <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python">
   </a>
