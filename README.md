@@ -23,7 +23,7 @@
 
 <h3>* 🎌 - I'm cybersecurity learner 🕵, I do CTF like DGSE(20th), DGA & Metasploit ...</h3>
 <h3>* ☠️ - I'm CTF team captain.</h3>
-<h3>* 🤖 - I'm currently working on a Botnet C&C for data exfiltration in a Industrial Espionage context
+<h3>* 🤖 - I'm currently working on a Botnet C&C for data exfiltration in an Industrial Espionage context
            working in a local network for my DUT degree.</h3>
 <h3>      I'm working on many projects like : </h3>
 <h4>       - "0ne More Day" 0MD Raspbian based distro, targeting privacy and data sharing</h4>
