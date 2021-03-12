@@ -21,7 +21,7 @@
   
 </p>
 
-<h3>* 🎌 - I'm cybersecurity learner 🕵, I do CTF like DGSE(20th), Metasploit and others.</h3>
+<h3>* 🎌 - I'm cybersecurity learner 🕵, I do CTF like DGSE(20th), DGA & Metasploit ...</h3>
 <h3>* ☠️ - I'm CTF team captain.</h3>
 <h3>* 🤖 - I'm currently working on a Botnet C&C working in a local network for my DUT degree.</h3>
 <h3>      I'm working on many projects like : </h3>
