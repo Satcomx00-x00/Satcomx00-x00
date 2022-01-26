@@ -40,4 +40,30 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Satcomx00-x00&theme=dark&show_icons=true)
 
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div id="tradingview_f4946"></div>
+  <div class="tradingview-widget-copyright"><a href="https://fr.tradingview.com/symbols/BTCUSDT/?exchange=FTX" rel="noopener" target="_blank"><span class="blue-text">BTCUSDT graphique</span></a> par TradingView</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+  <script type="text/javascript">
+  new TradingView.widget(
+  {
+  "width": 980,
+  "height": 610,
+  "symbol": "FTX:BTCUSDT",
+  "interval": "D",
+  "timezone": "Etc/UTC",
+  "theme": "dark",
+  "style": "1",
+  "locale": "fr",
+  "toolbar_bg": "#f1f3f6",
+  "enable_publishing": false,
+  "save_image": false,
+  "container_id": "tradingview_f4946"
+}
+  );
+  </script>
+</div>
+<!-- TradingView Widget END -->
+
 
