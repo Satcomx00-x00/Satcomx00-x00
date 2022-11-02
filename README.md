@@ -29,7 +29,7 @@
 <h4>       - "0ne More Day" 0MD Raspbian based distro, targeting privacy and data sharing</h4>
 <h4>       - Discord bot NMAP</h4>
 <h4>       - Crypto autobot(TradeOgre)</h4>
-<h4>       - Crypto AI bot Spot/Futures(Binance)</h4>
+<h4>       - Crypto AI bot Spot/Futures(FTX)</h4>
 <h4>       - Nodejs reverse shell Hub, with hardcoded powershell commands </h4>
 <h4>       - Proxmark3 RFID HF-LF learning</h4>
 <h4>       - C# based network optimizer and ports checker</h4>
