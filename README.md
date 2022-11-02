@@ -23,7 +23,7 @@
 
 <h3>* 🎌 - I'm cybersecurity learner 🕵, I do CTF like DGSE(20th), DGA & Metasploit ...</h3>
 <h3>* ☠️ - I'm CTF team captain.</h3>
-<h3>* 🤖 - I'm currently working on a Botnet C&C for data exfiltration in an Industrial Espionage context
+<h3>* 🤖 - Working on a Botnet C&C for data exfiltration in an Industrial Espionage context
            working in a local network for my DUT degree.</h3>
 <h3>      I'm working on many projects like : </h3>
 <h4>       - "0ne More Day" 0MD Raspbian based distro, targeting privacy and data sharing</h4>
@@ -33,6 +33,8 @@
 <h4>       - Nodejs reverse shell Hub, with hardcoded powershell commands </h4>
 <h4>       - Proxmark3 RFID HF-LF learning</h4>
 <h4>       - C# based network optimizer and ports checker</h4>
+<h4>    - Docker Swarm, Cluster infrastructure with DevOps functionnalities : 
+<h4>       - Slef-hosted Gitlab, Gitlab-runner, auto CI/CD, ansible, dockers services under cluster, VPN
 <h3>     I'm learning many codes languages: Python, Powershell, (SQL), Nodejs, React, ... </h3>
 <h1 align='center'> Stats </h1>
 
