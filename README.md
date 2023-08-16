@@ -1,5 +1,19 @@
 # 💫 About Me:
-* 🎌 - I'm cybersecurity learner 🕵, I do CTF like DGSE(20th), DGA & Metasploit ...<br>* ☠️ - I'm CTF team captain.<br>* 🤖 - Working on a Botnet C&C for data exfiltration in an Industrial Espionage context working in a local network for my DUT degree.<br>I'm working on many projects like :<br>- "0ne More Day" 0MD Raspbian based distro, targeting privacy and data sharing<br>- Discord bot NMAP<br>- Crypto autobot(TradeOgre)<br>- Crypto AI bot Spot/Futures(FTX)<br>- Nodejs reverse shell Hub, with hardcoded powershell commands<br>- Proxmark3 RFID HF-LF learning<br>- C# based network optimizer and ports checker<br>Docker Swarm, Cluster infrastructure with DevOps functionnalities :<br>- Slef-hosted Gitlab, Gitlab-runner, auto CI/CD, ansible, dockers services under cluster, VPN<br>I'm learning many codes languages: Python, Powershell, (SQL), Nodejs, React, ...
+* 🎌 - I'm cybersecurity learner 🕵, I do CTF like DGSE(20th), DGA & Metasploit ...<br>
+* ☠️ - I'm CTF team captain.<br>
+* 🤖 - Working on a Botnet C&C for data exfiltration in an Industrial Espionage context working in a local network for my DUT degree.<br>
+
+I'm working on many projects like :<br>
+- "0ne More Day" 0MD Raspbian based distro, targeting privacy and data sharing<br>
+- Discord bot NMAP<br>
+- Crypto autobot(TradeOgre)<br>
+- Crypto AI bot Spot/Futures(FTX)<br>
+- Nodejs reverse shell Hub, with hardcoded powershell commands<br>
+- Proxmark3 RFID HF-LF learning<br>
+- C# based network optimizer and ports checker<br>
+
+Docker Swarm, Cluster infrastructure with DevOps functionnalities :<br>
+- Slef-hosted Gitlab, Gitlab-runner, auto CI/CD, ansible, dockers services under cluster, VPN<br>I'm learning many codes languages: Python, Powershell, (SQL), Nodejs, React, ...
 
 
 ## 🌐 Socials:
