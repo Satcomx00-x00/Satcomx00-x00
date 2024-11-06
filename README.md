@@ -4,7 +4,7 @@
 * 🤖 - Working on a Botnet C&C for data exfiltration in an Industrial Espionage context working in a local network for my DUT degree.<br>
 
 I'm working on many projects like :<br>
-- "0ne More Day" 0MD Raspbian based distro, targeting privacy and data sharing<br>
+- Discord AI ticketing BOT<br>
 - Discord bot NMAP<br>
 - Crypto autobot(TradeOgre)<br>
 - Crypto AI bot Spot/Futures(FTX)<br>
