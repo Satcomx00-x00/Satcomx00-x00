@@ -1,7 +1,5 @@
 # 💫 About Me:
-* 🎌 - I'm cybersecurity learner 🕵, I do CTF like DGSE(20th), DGA & Metasploit ...<br>
-* ☠️ - I'm CTF team captain.<br>
-* 🤖 - Working on a Botnet C&C for data exfiltration in an Industrial Espionage context working in a local network for my DUT degree.<br>
+* 🎌 I'm cybersecurity learner 🕵, I do CTF like DGSE(20th), DGA & Metasploit ...<br>
 
 I'm working on many projects like :<br>
 - Discord AI ticketing BOT<br>
