@@ -2,14 +2,7 @@
 
 ## 💫 About Me
 🎌 I'm a cybersecurity enthusiast 🕵️‍♂️, actively participating in CTFs like DGSE (20th), DGA, and Metasploit.  
-I am currently working on various projects, including:
-- 🤖 **Discord Support Bot : Orbital**
-- 🛡️ **Discord Bot for NMAP**
-- 🖥️ **Node.js Reverse Shell Hub** with hardcoded PowerShell commands
-- 📡 **Proxmark3 RFID HF-LF Learning**
-
 ### 🚀 DevOps and Infrastructure
-
 
 ### 🧠 Learning
 
